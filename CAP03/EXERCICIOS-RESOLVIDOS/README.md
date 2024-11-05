@@ -93,7 +93,7 @@ que este sofreu um aumento de 25%.
 - [Exercício 20:](EXE20)
   Faça um programa que receba a medida do ângulo (em graus) formado por uma escada apoiada no chão e encostada na parede e a altura da parede onde está a ponta da escada. Calcule e mostre a medida dessa escada.
 
-Observação: as funções trigonométricas implementadas nas linguagens de programação trabalham com medidas de ângulos em radianos.
+  Observação: as funções trigonométricas implementadas nas linguagens de programação trabalham com medidas de ângulos em radianos.
 - [Exercício 21:](EXE21)
   Uma pessoa deseja pregar um quadro em uma parede. Faça um programa para calcular e mostrar a que distância a escada deve estar da parede. A pessoa deve fornecer o tamanho da escada e a altura em que deseja pregar o quadro. Lembre-se de que o tamanho da escada deve ser maior que a altura que se deseja alcançar.
 - [Exercício 22:](EXE22)
